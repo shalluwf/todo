@@ -1,0 +1,45 @@
+
+
+.main_block{
+    margin:0px auto;
+    width: 600px;
+    border:1px solid black;
+}
+
+.sort_block{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-top: 1px solid black;
+    
+}
+
+.content_block{
+    height: 50px;
+    border-top: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.todo_block{
+    height: 50px;
+    width: 500px;
+    border-right: 1px solid black;
+}
+
+.text{   
+    text-align: center;
+}
+
+.create_dialog{
+
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
